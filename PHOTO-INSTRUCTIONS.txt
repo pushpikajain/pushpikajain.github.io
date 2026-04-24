@@ -1,0 +1,28 @@
+===================================
+  ADD YOUR PROFILE PHOTO HERE
+===================================
+
+WHAT TO DO:
+1. Save your photo in THIS folder
+2. Name it exactly: profile.jpg
+3. That's it!
+
+WHERE IS THIS FOLDER?
+You are here: C:\Users\t0305839\Claude\Pushpika Portfolio\public\
+
+WHAT PHOTO TO USE?
+- The photo you shared in the chat (red dress photo)
+- Or any other professional photo you prefer
+
+HOW TO SAVE IT:
+1. Right-click on your photo
+2. "Save image as..."
+3. Save it in THIS folder
+4. Name: profile.jpg
+
+THEN:
+- Refresh your browser at http://localhost:3000
+- Your photo will appear immediately!
+
+DELETE THIS FILE after adding your photo.
+===================================
